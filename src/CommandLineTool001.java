@@ -36,6 +36,7 @@ public class CommandLineTool001 {
 
         System.out.println("-------------------------------------------------");
         System.out.println("With this tool you can write book names in a file");
+        System.out.println("-------------------------------------------------");
         getOsName();
         System.out.println("The OS you are using is: " + OS);
         System.out.println("The path you are using is " + path);
