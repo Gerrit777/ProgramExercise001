@@ -34,7 +34,7 @@ public class CommandLineTool001 {
         System.out.print("\033[H\033[2J");
         System.out.flush();
 
-        System.out.println("------Test777-------------------------------------------");
+        System.out.println("-------------------------------------------------");
         System.out.println("With this tool you can write book names in a file");
         getOsName();
         System.out.println("The OS you are using is: " + OS);
