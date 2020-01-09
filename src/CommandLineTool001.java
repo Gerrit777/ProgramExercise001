@@ -31,6 +31,7 @@ public class CommandLineTool001 {
     }
     public static void main(String[] args) {
         //Clear screen of the console
+        //This line is added to practise with github 09JAN2020 14:25
         System.out.print("\033[H\033[2J");
         System.out.flush();
 
